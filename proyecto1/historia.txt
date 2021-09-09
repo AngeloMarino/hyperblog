@@ -4,6 +4,12 @@ Angelo tiene 20 años
 
 Nacio en Argentina.
 
+<<<<<<< HEAD
 Se como angelo.
 
 Hablaremos de su historia y su vida. Es un genio.
+=======
+Se como Angelo.
+
+Mañana nos enfocaremos en su trabajo
+>>>>>>> cabecera
